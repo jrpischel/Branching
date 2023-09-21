@@ -18,3 +18,8 @@
 * 'git branch -m "newName"' - rename current branch to "newName"
 * 'git branch "branchName"' - create local branch "branchName"
 * 'git checkout "branchName' - switch to local branch "branchName"
+
+
+# VI Commands
+
+* ':wq' - w = write q = quit 
