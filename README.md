@@ -31,5 +31,5 @@ Common command reference, and practicing with commits and branches.
 
 ## Remote Commands
 
-* 'git remote add origin url' - configure "url" as a remote with alias "origin"
-* ''
+* 'git remote add origin url' - configure "url" as a remote repo with alias "origin"
+* 'git push origin "branchName"' - push local commits to remote repo "origin" on branch "branchName"
