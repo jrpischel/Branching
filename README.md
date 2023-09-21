@@ -23,3 +23,7 @@
 # VI Commands
 
 * ':wq' - w = write q = quit 
+
+# Remote Commands
+
+* 'git remote add origin '
