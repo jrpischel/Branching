@@ -11,3 +11,15 @@
 * 'git status' - shows status of working directory
 * 'git log' - lists local commit history
 * 'git log --oneline' lists local commit history in compact format
+
+## Branch Commands
+
+* 'git branch' - list local branches
+* 'git branch -m "newName"' - rename current branch to "newName"
+* 'git branch "branchName"' - create local branch "branchName"
+* 'git checkout "branchName' - switch to local branch "branchName"
+
+
+# VI Commands
+
+* ':wq' - w = write q = quit 
